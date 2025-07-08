@@ -39,10 +39,6 @@ pwa-ecommerce/
 
 4. Open in browser and click "Add to Home Screen"
 
-## 📱 Screenshots
-
-_Add screenshots here if needed (home screen prompt, offline mode, etc.)_
-
 ## ✅ Internship Requirements Covered
 
 - [x] PWA support for offline access  
